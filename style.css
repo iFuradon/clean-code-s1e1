@@ -147,3 +147,6 @@ ul li.editMode input[type=text] {
 ul li.editMode label {
   display: none;
 }
+.topSectionForAddingElementToList {
+  margin: 16px 0
+}
