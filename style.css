@@ -105,7 +105,7 @@ label[for="new-item__input"] {
   display: block;
   margin: 0 0 20px;
 }
-input#new-item__input {
+#new-item__input {
   width: 318px;
 }
 
@@ -145,7 +145,7 @@ button.delete img:hover {
 }
 
 /* Completed */
-ul#completed-tasks label {
+#completed__tasks label {
   text-decoration: line-through;
   color: #888;
 }
