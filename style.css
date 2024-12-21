@@ -27,11 +27,29 @@ body {
   width: 500px;
   margin: 0 auto 0;
 }
+
+.main__title {
+  display: none;
+}
+
+.new-item__invisible-title {
+  display: none;
+}
+
+.todo__invisible-title {
+  display: none;
+}
+
+.completed__invisible-title {
+  display: none;
+}
+
 .new-item__task-input {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
 }
+
 .todo__task {
   width: 56%;
   display: inline-block;
